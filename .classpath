@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Della00"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Eclipsce for Java/Third Year Semester Sixth/Della00.zip_expanded/Della00/Della00.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipsce for Java/Third Year Semester Sixth/Della00.zip_expanded/Della00/xpp3-1.1.3.4d_b4_min.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipsce for Java/Third Year Semester Sixth/Della00.zip_expanded/Della00/xstream-1.1.2.jar"/>
+	<classpathentry kind="lib" path="H:/Softwares/software/Files jar for della/xpp3-1.1.4c.0.jar"/>
+	<classpathentry kind="lib" path="H:/Softwares/software/Files jar for della/xstream-1.4.18.jar"/>
+	<classpathentry kind="output" path="Della00"/>
+</classpath>

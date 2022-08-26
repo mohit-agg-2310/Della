@@ -1,0 +1,103 @@
+<object-stream>
+  <control.Controller>
+    <actionItemManager>
+      <actionItems>
+        <model.ActionItem>
+          <actionItemName>hlo</actionItemName>
+          <description>how are you</description>
+          <resolution></resolution>
+          <status>Open</status>
+          <createdDate>2022-01-25 16:49:03.52 IST</createdDate>
+          <members>-No Member Assigned-</members>
+          <teams>No Team Assigned-</teams>
+        </model.ActionItem>
+        <model.ActionItem>
+          <actionItemName>abc</actionItemName>
+          <description>sghaaf</description>
+          <resolution>uhuih</resolution>
+          <status>Open</status>
+          <createdDate>2022-03-22 11:01:24.759 IST</createdDate>
+          <members>mohit</members>
+          <teams>abc</teams>
+        </model.ActionItem>
+        <model.ActionItem reference="../model.ActionItem[2]"/>
+        <model.ActionItem reference="../model.ActionItem[2]"/>
+        <model.ActionItem>
+          <actionItemName>book</actionItemName>
+          <description>so</description>
+          <resolution>uhuih</resolution>
+          <status>Open</status>
+          <dueDate>0028-09-11 00:00:00.0 IST</dueDate>
+          <createdDate>2022-03-22 10:58:21.336 IST</createdDate>
+          <members>mohit</members>
+          <teams>abc</teams>
+        </model.ActionItem>
+        <model.ActionItem>
+          <actionItemName>pen</actionItemName>
+          <description>so</description>
+          <resolution>uhuih</resolution>
+          <status>Open</status>
+          <dueDate>0028-09-11 00:00:00.0 IST</dueDate>
+          <createdDate>2022-03-22 10:58:31.366 IST</createdDate>
+          <members>mohit</members>
+          <teams>abc</teams>
+        </model.ActionItem>
+        <model.ActionItem>
+          <actionItemName>pencil</actionItemName>
+          <description>so</description>
+          <resolution>uhuih</resolution>
+          <status>Open</status>
+          <dueDate>0028-09-11 00:00:00.0 IST</dueDate>
+          <createdDate>2022-03-22 10:58:40.797 IST</createdDate>
+          <members>mohit</members>
+          <teams>abc</teams>
+        </model.ActionItem>
+      </actionItems>
+      <member>
+        <model.Member>
+          <memberName>mohit</memberName>
+          <availableTeams>
+            <string>abc</string>
+          </availableTeams>
+          <currentTeams/>
+          <aiM reference="../../.."/>
+          <theController reference="../../../.."/>
+        </model.Member>
+      </member>
+      <team>
+        <model.Team>
+          <teamName>abc</teamName>
+          <availableMembers/>
+          <currentMembers/>
+          <aiM reference="../../.."/>
+          <theController reference="../../../.."/>
+        </model.Team>
+      </team>
+      <actionItemStrings>
+        <string>hlo</string>
+        <string>abc</string>
+        <string>abc</string>
+        <string>abc</string>
+        <string>book</string>
+        <string>pen</string>
+        <string>pencil</string>
+      </actionItemStrings>
+      <members>
+        <string>mohit</string>
+      </members>
+      <teams>
+        <string>abc</string>
+      </teams>
+      <editChangesPending>false</editChangesPending>
+      <currentActionItem reference="../actionItems/model.ActionItem[2]"/>
+      <emptyActionItem>
+        <actionItemName></actionItemName>
+        <description></description>
+        <resolution></resolution>
+        <status></status>
+        <members>-No Member Assigned-</members>
+        <teams>No Team Assigned-</teams>
+      </emptyActionItem>
+    </actionItemManager>
+  </control.Controller>
+</object-stream>
